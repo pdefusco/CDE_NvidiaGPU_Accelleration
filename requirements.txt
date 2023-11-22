@@ -1,0 +1,2 @@
+cdepy==0.1.6
+spark_rapids_user_tools==23.6.2
